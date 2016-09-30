@@ -1,0 +1,10 @@
+[
+{
+"title":"Breaking News: Record Thunderstorms",
+"subtitle":"The local area is due for record thunderstorms over the weekend.",
+"image_url":"https://thechangreport.com/img/lightning.png",
+"buttons":[
+{
+"type":"element_share"
+} 
+]
